@@ -4,3 +4,10 @@ body {
 }header {
     border: solid 2px rgb(106, 90, 205);
 }
+section {
+    background: rgb(106, 90, 205);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
